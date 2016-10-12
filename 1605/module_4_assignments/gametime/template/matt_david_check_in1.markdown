@@ -5,23 +5,23 @@ Complete this form and the README.md before the first check in. Delete this line
 ## Basics
 
 ### Team
-- [TeamMate1](https://github.com/tenderlove)
-- [TeamMate2](https://github.com/wycats)
+- [TeamMate1](https://github.com/matthewecampbell)
+- [TeamMate2](https://github.com/dtinianow)
 
 ### Game Name
 
-Snek
+Slime Volleyball
 
 ### Give a Basic Description of the Game
 
-Snek eats pellets - grows and tries not to run into itself
+Two blobs of slime play 2D volleyball.
 
 ### Include a Link to or Screen Shot of the Game
 
-[Snek](http://imgur.com/gallery/owNiA)
+[Slime Volleyball](http://imgur.com/Rlx4sHN)
 
 ### Link to the Github repository for the project
-[Your Repo](https://youtu.be/kZSfPPJ4Fk8)
+[Your Repo](https://github.com/dtinianow/slime_volleyball)
 
 ## The Plan
 
@@ -29,29 +29,29 @@ Snek eats pellets - grows and tries not to run into itself
 
 e.g.
 
-- Snake moves around screen
-- Snake can eat pellets
-- When a pellet is eaten, the snake grows in length
-- If the snake hits itself, the game ends
-- Snake is rainbow colored, changes color throughout game
-- If the user navigates away, snake game pauses
-- Crazy Mode makes the snake change speeds randomly
-- Pellets are instructor's faces and they make a sound when they get eaten
-- Cat mode turns the snake into Nyan Cat
+- Slimes can move around the screen
+- Slimes cannot move past the nets or the walls
+- Slimes can hit the ball and the ball will fly with believable trajectory
+- If the ball hits the ground, the other slime scores a point
+- The first to seven points wins
+- Two players can play on the same computer
+- A player could play against AI
 
 ### What is your MVP, or 'this was harder than I thought' plan?
+-Slimes can move around the screen
+- Slimes cannot move past the nets or the walls
+- Slimes can hit the ball and the ball will fly with believable trajectory
+- If the ball hits the ground, the other slime scores a point
+- The first to seven points wins
+- Two players can play on the same computer
 
-e.g.
-
-- Snake moves around screen
-- Snake can eat pellets
-- When a pellet is eaten, the snake grows in length
-- Is the snake hits itself, the game ends
 
 ### What have you accomplished so far?
 
-### Questions, Comments, Concerns?
+A slime is on the canvas, and can move, but the canvas does not clear.
 
+### Questions, Comments, Concerns?
+Why won't the canvas clear?
 -----
 
 # Instructor Feedback Section
