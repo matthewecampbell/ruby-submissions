@@ -4,15 +4,11 @@
 
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
-- [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
-
-- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
-
 # Student Feedback
 
 ### Blog draft
 
-- Provide a link to your blog draft or outline
+[Blog Outline](https://docs.google.com/document/d/17thW2zn1LozgQUMFPECteOe_litqKajWthYW8hX3Kds/edit?usp=sharing)
 
 ### Hours
 
@@ -52,10 +48,10 @@ Points in this section are cumulative
 * 15: Developer participated in 4 daily stand ups
 * 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
-* 5: Developer provided useful feedback on a PR review request.
-* 5: Developer provided useful feedback on a second PR review request.
-* 5: Developer provided useful feedback on a blog post draft.
-* 5: Developer provided useful feedback on a second blog post draft.
+* 5: [Developer provided useful feedback on a PR review request.](https://github.com/matthewrpacker/EarlyBird/pull/1/files)
+* 5: Developer provided useful feedback on a second PR review request.(https://github.com/roscalabrin/climbing-sensei/pull/10/files)
+* 5: Developer provided useful feedback on a blog post draft. (Check Slack)
+* 5: Developer provided useful feedback on a second blog post draft. (Check Slack)
 
 ### Hourly Work (25 points)
 
