@@ -14,20 +14,29 @@
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours):
-- Monday (8 hours):
-- Tuesday (8 hours):
-- Wednesday (8 hours):
+- Pre-Work (2 hours):
+- Monday (8.5 hours):
+- Tuesday (7.5 hours):
+- Wednesday (5 hours):
 - Thursday (8 hours):
-- Weekend (0 hours):
+- Weekend (10 hours):
 
 ### Participation
 
-Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
+  [Feedback for Matt on his iOS commit.](https://github.com/matthewrpacker/EarlyBird/pull/1/files)
+  [Feedback for Roberta and Pat on their routing in React Commit.](https://github.com/roscalabrin/climbing-sensei/pull/10/files)
+
+"Dave, I love the enthralling conclusion.  I think you hit some good points of information on the differences since I didn’t know any and now have a better understanding just from reading your outline.  Maybe go into something a bit deeper than compiled and OOP?  Not sure what that would be." - Feed back for David on his Blog Post
+
+
+"@ryanflach - in the first sentence, it’s a bit wordy.  Maybe end it after curriculum and don’t worry about mentioning the brownfield projects since it is still stuff outside of the general curriculum.  I would also mention why you are interested in Elixir/Phoenix.  I’m very curious to know why you landed on a functional programming language.  I think it would add a lot to the post."
+-Feedback for Ryan on his blog post.
 
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
+[My first commit with service workers](https://github.com/matthewecampbell/slime_volleyball/commit/0403e9516f572c4642eb3ceae537dc3dc7901745)
+
+This is a bit of a test.  I wanted to see if I can start with the easiest iteration possible - using service-workers in a straight JavaScript Application.  Once I complete that I will move on to adding this to rails.  I am still waiting for my github pages to update so I can test my PR.
 
 # Instructor feedback
 
@@ -48,8 +57,8 @@ Points in this section are cumulative
 * 15: Developer participated in 4 daily stand ups
 * 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
-* 5: [Developer provided useful feedback on a PR review request.](https://github.com/matthewrpacker/EarlyBird/pull/1/files)
-* 5: Developer provided useful feedback on a second PR review request.(https://github.com/roscalabrin/climbing-sensei/pull/10/files)
+* 5: Developer provided useful feedback on a PR review request.
+* 5: Developer provided useful feedback on a second PR review request.
 * 5: Developer provided useful feedback on a blog post draft. (Check Slack)
 * 5: Developer provided useful feedback on a second blog post draft. (Check Slack)
 
